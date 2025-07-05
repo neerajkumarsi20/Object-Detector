@@ -25,14 +25,14 @@ st.markdown("""
     .main-header {
         text-align: center;
         padding: 2rem 0;
-        background: linear-gradient(135deg, #43cea2 0%, #f9f586 50%, #185a9d 100%);
+        background: linear-gradient(135deg, #808080 0%, #ffffff 50%, #000000 100%);
         color: #102542;
         margin: -1rem -1rem 2rem -1rem;
         border-radius: 20px;
         box-shadow: 0 8px 32px rgba(0,0,0,0.1);
     }
     .confidence-section {
-        background: linear-gradient(135deg, #e3ffe7, #d9e7ff);
+        background: linear-gradient(135deg, #ffffff, #000000);
         padding: 1.5rem;
         border-radius: 12px;
         margin-bottom: 1.5rem;
@@ -44,7 +44,7 @@ st.markdown("""
         color: #102542;
     }
     .stButton>button {
-        background: linear-gradient(45deg, #43cea2, #185a9d);
+        background: linear-gradient(45deg, #808080, #185a9d);
         color: white;
         border: none;
         padding: 0.8rem 1.5rem;
@@ -82,7 +82,7 @@ st.markdown("""
         box-shadow: 0 4px 12px rgba(0,0,0,0.1);
     }
     .stTabs [data-baseweb="tab"][aria-selected="true"] {
-        background: linear-gradient(135deg, #43cea2, #185a9d);
+        background: linear-gradient(135deg, #808080);
         color: white;
         border-color: #43cea2;
     }
@@ -183,7 +183,7 @@ st.markdown("""
             margin-bottom: 1rem;
         }
         .conf-box {
-            background: linear-gradient(135deg, #43cea2 0%, #f9f586 50%, #185a9d 100%);
+            background: linear-gradient(135deg, #808080 0%, #ffffff 50%, #000000 100%);
             padding: 0.6rem 1.6rem;
             border-radius: 8px;
             box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);

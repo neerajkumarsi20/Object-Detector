@@ -1,4 +1,4 @@
-# Real-Time Object Detection with YOLOv8 
+# Real-Time Object Detection  
 # (Webcam, Image & Video)
 
 ![Static Badge](https://img.shields.io/badge/Built%20with-Lemon%20Juice-orange?logoColor=yell)
@@ -25,8 +25,8 @@ This project lets you detect objects in:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/suganthangnanavelan/Yolo-Object-Detection.git
-cd Yolo-Object-Detection
+git https://github.com/neerajkumarsi20/Object-Detector.git
+cd Object-Detector
 ```
 
 ### 2. Setup a Virtual Environment
